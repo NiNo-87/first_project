@@ -1,2 +1,6 @@
-# first_project
+# first\_project
+
 Тестовый проект
+
+«Тестовый репозиторий для работы с GitHub»
+
